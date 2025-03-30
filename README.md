@@ -1,7 +1,7 @@
 # About Me
 ### Hey! I'm Tólegenov Atabek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
 
-I am the most strongest Fronted Developer in the world, but wait it for some times until I come back 😅😅
+I am the most strongest Fronted Developer in the world, but it is still in my dream 😅😅
 
 ### 🌐 Connect with me:
 - **Telegram**: [itisatashi](https://t.me/itisatashi)
