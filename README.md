@@ -1,16 +1,16 @@
-## Hi there 👋
+# About Me
+### Hey! I'm Tólegenov Atabek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
 
-<!--
-**itisatashi/itisatashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the most strongest Fronted Developer in the world, but wait it for some times until I come back 😅😅
 
-Here are some ideas to get you started:
+### 🌐 Connect with me:
+- **Telegram**: [itisatashi](https://t.me/itisatashi)
+- **Dev.to**: [itisatashi](https://dev.to/itisatashi)
+- **Medium**: [itisatashi](https://medium.com/@itisatashi)
+- **Leetcode**: [itisatashi](https://leetcode.com/itisatashi/)
+- **LinkedIn**: [itisatashi](https://linkedin.com/itisatashi/)
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma,tailwind,react,git,github,vscode)](https://skillicons.dev)
