@@ -4,7 +4,7 @@
 I am the most strongest Fronted Developer in the world, but it is still in my dream 😅😅
 
 ### 🌐 Connect with me:
-- **Telegram**: [itisatashi](https://t.me/itisatashi)
+- **Telegram**: [suliwjigit](https://t.me/suliwjigit)
 - **Dev.to**: [itisatashi](https://dev.to/itisatashi)
 - **Medium**: [itisatashi](https://medium.com/@itisatashi)
 - **Leetcode**: [itisatashi](https://leetcode.com/itisatashi/)
