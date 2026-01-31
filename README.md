@@ -5,6 +5,7 @@ I love web-development ❤️
 
 ### 🌐 Connect with me:
 - **Telegram**: [itisatashi](https://t.me/itisatashi)
+- **Email**: itisatashi@gmail.com
   
 ---
 
