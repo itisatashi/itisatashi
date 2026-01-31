@@ -5,7 +5,6 @@ I love web-development ❤️
 
 ### 🌐 Connect with me:
 - **Telegram**: [suliwjigit](https://t.me/itisatashi)
-- **LinkedIn**: [itisatashi](https://linkedin.com/itisatashi/)
   
 ---
 
