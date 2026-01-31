@@ -4,10 +4,7 @@
 I love web-development ❤️
 
 ### 🌐 Connect with me:
-- **Telegram**: [suliwjigit](https://t.me/suliwjigit)
-- **Dev.to**: [itisatashi](https://dev.to/itisatashi)
-- **Medium**: [itisatashi](https://medium.com/@itisatashi)
-- **Leetcode**: [itisatashi](https://leetcode.com/itisatashi/)
+- **Telegram**: [suliwjigit](https://t.me/itisatashi)
 - **LinkedIn**: [itisatashi](https://linkedin.com/itisatashi/)
   
 ---
